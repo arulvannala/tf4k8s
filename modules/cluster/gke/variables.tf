@@ -70,7 +70,7 @@ variable "gke_oauth_scopes" {
 
 variable "release_channel" {
   type = string
-  default = "RAPID"
+  default = "STABLE"
 }
 
 variable "all_inbound" {
