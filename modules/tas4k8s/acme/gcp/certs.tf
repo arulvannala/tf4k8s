@@ -37,4 +37,4 @@ variable "email" {}
 
 variable "domain" {}
   
-variable "s3_bucket" {}
+
